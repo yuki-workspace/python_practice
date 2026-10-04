@@ -1,0 +1,9 @@
+2026-09-21 17:54:15,995 [DEBUG  ] myapp.register (req=req-0001) DBコネクション取得
+2026-09-21 17:54:15,996 [INFO   ] myapp.register (req=req-0001) ユーザー tanaka の登録開始
+2026-09-21 17:54:15,996 [WARNING] myapp.register (req=req-0001) 既存ユーザーと名前が近い
+2026-09-21 17:54:15,996 [ERROR  ] myapp.register (req=req-0001) 登録処理でエラー
+Traceback (most recent call last):
+  File "/Users/yanoryuusei/GitHub/python_practice2/python_practical_recipes/17/17-4/17-4-4.py", line 50, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero

@@ -1,0 +1,6 @@
+2026-09-13 20:33:20,794 ERROR インデックスエラー発生
+Traceback (most recent call last):
+  File "/Users/yanoryuusei/GitHub/python_practice2/python_practical_recipes/17/17-3/17-3-2.py", line 7, in <module>
+    tuple()[0]
+    ~~~~~~~^^^
+IndexError: tuple index out of range
